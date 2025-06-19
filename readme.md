@@ -12,8 +12,8 @@ It uses a custom-trained `LogisticRegression` model on real-world tweets (Sentim
 
 ## 🚀 Try It Live
 
-👉 [Click here to run the app on Streamlit](https://your-username.streamlit.app/)  
-*(replace with your actual app link after deployment)*
+👉 [Click here to run the app on Streamlit](https://sentiment-analysis-app-lzxd25yy5mspjnnwdxdkpx.streamlit.app/)  
+
 
 ---
 
